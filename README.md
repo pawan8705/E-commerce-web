@@ -1,3 +1,5 @@
+# ( Note :- Please correct image path )
+
 # E-Commerce Website (Clothing) :-
 
 This is a fully responsive multi-page e-commerce website designed for clothing stores. The website provides an intuitive and user-friendly interface for users to browse, search, and interact with products seamlessly. The project is built using HTML, CSS, and JavaScript, with a focus on responsiveness and cross-device compatibility through CSS media queries.
